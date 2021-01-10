@@ -1,9 +1,9 @@
 # Minecraft Texture Packs
 This repository currently only contains one texture pack:
-["Linayr's pack DDust"](./%C2%A7dLinayr%E2%80%99s%20pack-%C2%A75%20ddust.zip) 
+["Linayr's pack DDust"](./%C2%A7dLinayr's%20pack-%C2%A75%20ddust.zip) 
 
 # Attribution
-["Linayr's pack DDust"](./%C2%A7dLinayr%E2%80%99s%20pack-%C2%A75%20ddust.zip)
+["Linayr's pack DDust"](./%C2%A7dLinayr's%20pack-%C2%A75%20ddust.zip)
 texture pack is based on the following packs:
 - Telly's 60k pack
 - shant v4 revamp
@@ -13,6 +13,6 @@ texture pack is based on the following packs:
 - Rose pink
 
 # LICENSE
-["Linayr's pack DDust"](./%C2%A7dLinayr%E2%80%99s%20pack-%C2%A75%20ddust.zip)
+["Linayr's pack DDust"](./%C2%A7dLinayr's%20pack-%C2%A75%20ddust.zip)
 by DDust is licensed under Attribution-NonCommercial 4.0 International.
 To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0
